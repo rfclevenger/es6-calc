@@ -1,0 +1,32 @@
+#calc {
+  margin-top:5%;
+  color:black;
+}
+
+#calc .row {
+}
+
+#calc .row .column,
+#calc .row .columns{
+}
+
+#calc .info .current {
+  background-color:gray;
+  color:white;
+  font-size:1.8vw;
+  text-align:right;
+}
+
+#calc .button {
+  background-color:gray;
+  color:white;
+  font-size:1.4vw;
+}
+
+#calc .b-div,
+#calc .b-mul,
+#calc .b-min,
+#calc .b-add,
+#calc .b-eq {
+  background-color:orange;
+}
