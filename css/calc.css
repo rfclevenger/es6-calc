@@ -11,14 +11,14 @@
 }
 
 #calc .info .current {
-  background-color:red;
+  background-color:gray;
   color:white;
   font-size:1.8vw;
   text-align:right;
 }
 
 #calc .button {
-  background-color:red;
+  background-color:gray;
   color:white;
   font-size:1.4vw;
 }
